@@ -1,4 +1,4 @@
-time ./Paper.sh Paper.txt
+$ time ./Paper.sh Paper.txt
 1. 1586300
 2. 3737498
 
